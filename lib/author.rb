@@ -1,8 +1,8 @@
 class Aurthor
-  attr_accessor :name 
+  attr_accessor :name
 
-  def initialize 
-    @name = name 
+  def initialize
+    @name = name
   end
   
 end
